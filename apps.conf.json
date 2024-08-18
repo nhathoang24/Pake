@@ -67,6 +67,12 @@
       "url": "https://music.youtube.com/"
     },
     {
+      "name": "voz",
+      "title": "voz",
+      "name_zh": "voz",
+      "url": "https://voz.vn/"
+    },
+    {
       "name": "weread",
       "title": "WeRead",
       "name_zh": "微信阅读",
